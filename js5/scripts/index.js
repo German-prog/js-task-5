@@ -1,0 +1,10 @@
+let a6 = 5%3;
+let a7 = 3%5;   
+let a8 = 5+'3';
+let a9 = '5'-3;
+let a10 = 75+'кг';
+ alert (5%3);
+ alert (3%5);
+ alert (5+'3');
+ alert ('5'-3);
+ alert (75+'кг');
